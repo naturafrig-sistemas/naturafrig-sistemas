@@ -6,7 +6,7 @@
 
 <p align="center">
   <b>Tecnologia da Informação · Naturafrig Alimentos</b><br />
-  Sistemas internos que conectam pessoas, unidades e operação.
+  Tecnologia a serviço da operação, das pessoas e de cada unidade.
 </p>
 
 <p align="center">
@@ -20,55 +20,48 @@
 
 ## 🏢 Quem somos
 
-Somos o time de sistemas da **Naturafrig Alimentos**. Desenvolvemos e mantemos as ferramentas internas que o dia a dia das unidades usa: comunicação, agenda, reuniões, atendimento e integrações com a infraestrutura da empresa.
+Somos a área de **Tecnologia da Informação da Naturafrig Alimentos**. Cuidamos dos sistemas, da infraestrutura e das integrações que mantêm as unidades conectadas e a operação rodando, do escritório ao chão de fábrica.
 
-Tudo feito sob medida para a nossa operação, com foco em **segurança**, **simplicidade** e **funcionar de verdade no chão de fábrica e no escritório**.
+Desenvolvemos soluções próprias quando o mercado não atende e integramos as ferramentas que a empresa já usa, sempre pensando em quem está do outro lado da tela.
 
 ---
 
-## 🧩 O que construímos
+## 🧭 Nossas frentes
 
-| | Projeto | O que faz |
+| | Frente | Foco |
 |---|---|---|
-| 💬 | **Chat Corporativo** | Mensagens em tempo real entre todas as unidades, com criptografia, login pelo Active Directory, agenda com reserva de salas, reuniões por vídeo e ligações diretas. Versões web, Windows e Android. |
-| 📅 | **Agenda e Reuniões** | Eventos com convite, confirmação de presença, lembretes por chat e e-mail, sala de vídeo integrada e reserva de salas sincronizada com o GLPI. |
-| 🤝 | **Atendimento WhatsApp** | Fila de atendimento e fluxos automatizados para o contato com clientes e parceiros. |
-| 🛠️ | **Painel Administrativo** | Gestão de usuários, unidades, integrações (AD, GLPI, e-mail, VoIP) e segurança, com autenticação em dois fatores para administradores. |
-| 🌐 | **Gestão de Rede** | Controle e acompanhamento da rede das unidades. |
+| 💻 | **Sistemas internos** | Ferramentas sob medida para comunicação, gestão e o dia a dia das áreas. |
+| 🔗 | **Integrações** | Conectar os sistemas da empresa entre si, evitando retrabalho e dado duplicado. |
+| 🌐 | **Infraestrutura e redes** | Servidores, redes e conectividade entre as unidades, com disponibilidade e monitoramento. |
+| 🔐 | **Segurança da informação** | Proteção de dados, controle de acesso e boas práticas alinhadas à LGPD. |
+| 🎧 | **Suporte e atendimento** | Atendimento aos usuários e melhoria contínua a partir do que o dia a dia mostra. |
+| 📊 | **Dados e automação** | Automatizar tarefas repetitivas e transformar informação em decisão. |
 
 ---
 
-## 🔐 Como trabalhamos
+## 🤝 Como trabalhamos
 
-- **Segurança primeiro:** dados cifrados em repouso, autenticação centralizada no AD, 2FA para administradores e permissões sempre conferidas no servidor.
-- **Simples de usar:** o usuário entra com o mesmo login de sempre e encontra tudo num lugar só.
-- **Feito para as unidades:** cada filial com sua configuração, sem perder a visão do todo.
-- **Código revisado e versionado:** mudanças rastreáveis, testadas antes de ir para produção.
+- **Segurança primeiro:** acesso controlado, dados protegidos e responsabilidade com a informação.
+- **Simples para quem usa:** tecnologia boa é a que facilita o trabalho, não a que complica.
+- **Feito para as unidades:** cada filial com suas particularidades, sem perder a visão do todo.
+- **Melhoria contínua:** ouvir, ajustar e evoluir, com mudanças versionadas e testadas antes de ir para produção.
 
 ---
 
 ## 🛠️ Tecnologias
 
-### Backend
-![Node.js](https://img.shields.io/badge/Node.js-0e6b39?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-23377e?style=for-the-badge&logo=express&logoColor=white)
-![Socket.IO](https://img.shields.io/badge/Socket.IO-23377e?style=for-the-badge&logo=socketdotio&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-23377e?style=for-the-badge&logo=postgresql&logoColor=white)
-![WebRTC](https://img.shields.io/badge/WebRTC%20·%20mediasoup-0e6b39?style=for-the-badge&logo=webrtc&logoColor=white)
-
-### Frontend e Apps
 ![JavaScript](https://img.shields.io/badge/JavaScript-b9923c?style=for-the-badge&logo=javascript&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-23377e?style=for-the-badge&logo=typescript&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-0e6b39?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![React](https://img.shields.io/badge/React-23377e?style=for-the-badge&logo=react&logoColor=white)
-![Tailwind](https://img.shields.io/badge/TailwindCSS-0e6b39?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![Electron](https://img.shields.io/badge/Electron-23377e?style=for-the-badge&logo=electron&logoColor=white)
-![Android](https://img.shields.io/badge/Android%20·%20Capacitor-0e6b39?style=for-the-badge&logo=android&logoColor=white)
-
-### Infraestrutura e Integrações
+![Python](https://img.shields.io/badge/Python-0e6b39?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-b9923c?style=for-the-badge&logo=openjdk&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-23377e?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-23377e?style=for-the-badge&logo=docker&logoColor=white)
-![Nginx](https://img.shields.io/badge/Nginx-0e6b39?style=for-the-badge&logo=nginx&logoColor=white)
-![Active Directory](https://img.shields.io/badge/Active%20Directory%20·%20LDAP-23377e?style=for-the-badge&logo=windows&logoColor=white)
-![GLPI](https://img.shields.io/badge/GLPI-b9923c?style=for-the-badge&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-0e6b39?style=for-the-badge&logo=linux&logoColor=white)
+![Windows Server](https://img.shields.io/badge/Windows%20Server-23377e?style=for-the-badge&logo=windows&logoColor=white)
+![Active Directory](https://img.shields.io/badge/Active%20Directory-0e6b39?style=for-the-badge&logo=microsoft&logoColor=white)
+![GLPI](https://img.shields.io/badge/GLPI-b9923c?style=for-the-badge)
 ![Git](https://img.shields.io/badge/Git-0e6b39?style=for-the-badge&logo=git&logoColor=white)
 
 ---
