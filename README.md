@@ -67,7 +67,7 @@ Desenvolvemos soluções próprias quando o mercado não atende e integramos as 
 ---
 
 <p align="center">
-  <i>"Tecnologia boa é a que some no dia a dia: a pessoa só percebe que tudo funciona."</i>
+  <i>"Tecnologia boa é a que soma no dia a dia: a pessoa só percebe que tudo funciona."</i>
 </p>
 
 <p align="center">
